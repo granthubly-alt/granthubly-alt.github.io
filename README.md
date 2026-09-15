@@ -1,2 +1,7 @@
 # granthubly-alt.github.io
 Class Porfolio
+What I set out to make: I was trying to make a game that shows the difficulty of fighting fires. I envisioned a plane flying over patches of fire and having to click a button at the right time to put all the fires out without running out of water. 
+How I planned it: While I was brainstorming, I landed on a lot of ideas that were too similar to games that already existed. Ultimately, I landed on the plane game that I made because it was the most unique game out of the ideas I brainstormed.
+How I worked with the AI: I prompted the AI by describing a plane flying over fire and putting it out by holding the spacebar to drop water. I added lots of specific details such as a shaking red X with “out of water” or “missed a fire” when you failed the game. It asked me about specifics such as how the water should drop, how the levels should work, etc.
+What broke and how I fixed it: At first, the water dropped from the plane so slowly, that it would be past the fire once it fully dropped no matter what. Therefore, I told the AI to change it so the water dropped faster. I also envisioned having patches of fire of different sizes, and at first the fires were all the same sized ball, so I changed that. Lastly, the Level, Water Tank, and Flight Progress were all covering the plane, so I moved those words and graphics to the top right corner so the plane could be seen in the top left. 
+What I'd try next: I might add more variability to the later levels, such as faster flying speeds or obstacles for the plane to dodge. 
